@@ -1,0 +1,5 @@
+C:\Users\Kri\documents\visual studio 2012\Projects\NewTestSite3213\NewTestSite3213\bin\NewTestSite3213.dll
+C:\Users\Kri\documents\visual studio 2012\Projects\NewTestSite3213\NewTestSite3213\bin\NewTestSite3213.pdb
+C:\Users\Kri\documents\visual studio 2012\Projects\NewTestSite3213\NewTestSite3213\obj\Debug\NewTestSite3213.csprojResolveAssemblyReference.cache
+C:\Users\Kri\documents\visual studio 2012\Projects\NewTestSite3213\NewTestSite3213\obj\Debug\NewTestSite3213.dll
+C:\Users\Kri\documents\visual studio 2012\Projects\NewTestSite3213\NewTestSite3213\obj\Debug\NewTestSite3213.pdb
